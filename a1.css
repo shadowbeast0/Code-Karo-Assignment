@@ -1,0 +1,31 @@
+.box{
+    height: 230px;
+    width: 320px;
+    margin: 20px auto;
+    background-color: #1de592;
+    border-radius: 8px;
+    padding: 50px 30px 30px;
+    font-family:Arial, sans-serif;
+}
+
+.heading{
+    font-size: 28px;
+    color: #000;
+}
+.para{
+    font-size:9.8px;
+    margin-bottom:20px;
+    color: #000;
+}
+
+.btn{
+    display: inline-block;
+    padding: 7px 25px;
+    font-size: 12px;
+    background-color: #fff;
+    color: #000;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    text-decoration: none;
+}
